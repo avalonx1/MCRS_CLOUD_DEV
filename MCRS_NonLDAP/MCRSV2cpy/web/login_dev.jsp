@@ -14,7 +14,7 @@ if (statSession==null) {
     <head>
         <link rel="stylesheet" type="text/css" href="style/login.css" media="screen" />
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <title>Login|MCRS</title>
+        <title>Login|MCRS DEV</title>
 
         <script type="text/javascript">
 
@@ -31,7 +31,7 @@ if (statSession==null) {
         <div class="login_back">
             <div class="login_front">
                 <div class="company_icon"></div>
-                <div class="login_name">MCRSV4</div>
+                <div class="login_name">MCRS<sup style="color:orange;">dev</sup></div>
                 <form id="formLogin" method="post" action="">
 
                     <table border=0 width="">

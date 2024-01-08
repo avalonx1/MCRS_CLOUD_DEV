@@ -14,7 +14,7 @@ if (statSession==null) {
     <head>
         <link rel="stylesheet" type="text/css" href="style/login.css" media="screen" />
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <title>Login|MCRS</title>
+        <title>Login|MCRS DEV</title>
 
         <script type="text/javascript">
 
